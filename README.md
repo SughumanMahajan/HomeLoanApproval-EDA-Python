@@ -1,4 +1,4 @@
-# Loan-Approval-Analysis--Python
+# Home-Loan-Approval-Analysis-Python
 
 ## Project Overview 📝
 
